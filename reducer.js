@@ -29,7 +29,7 @@
     // Reducer
 
     const TIMER_DURATION = 1500;
-
+    
     const initialState = {
     isPlaying: false,
     elapsedTime: 0,
